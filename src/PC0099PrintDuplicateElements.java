@@ -16,6 +16,11 @@ public class PC0099PrintDuplicateElements {
 					System.out.println("testing the GIT");
 					System.out.println("testing the GIT1");
 					System.out.println("testing the GIT2");
+					System.out.println("testing the GIT3");
+					System.out.println("testing the GIT4");
+					System.out.println("testing the GIT5");
+					System.out.println("testing the GIT6");
+					
 				}
 			}
 		}
