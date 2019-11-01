@@ -21,6 +21,11 @@ public class PC0096MaxNumber {
        System.out.print("testing 2");
        
        System.out.print("testing 3");
+       
+       System.out.print("testing 4");
+       
+       System.out.print("testing 6");
+       
 	}
 
 }
