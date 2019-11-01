@@ -12,6 +12,10 @@ public class PC0099PrintDuplicateElements {
 				if((a[i]==a[j]) )
 				{
 					System.out.print(a[j]+" ");
+					
+					System.out.println("testing the GIT");
+					System.out.println("testing the GIT1");
+					System.out.println("testing the GIT2");
 				}
 			}
 		}
