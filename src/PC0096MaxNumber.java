@@ -13,6 +13,14 @@ public class PC0096MaxNumber {
 				max=a[i];
 		}
        System.out.print(max);
+       
+       System.out.print("testing 1");
+       
+       System.out.print("testing 2");
+       
+       System.out.print("testing 2");
+       
+       System.out.print("testing 3");
 	}
 
 }
